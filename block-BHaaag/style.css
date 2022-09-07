@@ -1,0 +1,53 @@
+body{
+    background-color: darkslateblue;
+}
+.heading{
+    font-size: 24px;
+    font-weight: 700;
+    color: white;
+}
+.address{
+color: white;
+font-size: 16px;
+}
+.exper{
+ color: green;
+ font-size: 22px;
+
+}
+.senior{
+ color: white;
+
+}
+.para{
+color: white;
+
+}
+
+.front{
+    color: white;
+    font-size: 20px;
+}
+
+.colla{
+    color: white;
+}
+.intern{
+    color: white;
+    font-size: 20px;
+}
+.lorem{
+    color: white;
+}
+.css{
+    color:green;
+    font-size: 22px;
+}
+.color{
+    color: white;
+    
+} 
+.nav a{
+    color:red;
+    margin-right: 10px;
+}
