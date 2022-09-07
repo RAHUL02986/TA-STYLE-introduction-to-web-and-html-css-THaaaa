@@ -1,0 +1,19 @@
+body{
+    background-color: blueviolet;
+}
+ /* h1{
+     color:greenyellow; 
+    font-size:60px;
+}
+p{
+    color:aqua;
+    font-size: 32px; 
+} */
+.heading{
+    color:aqua;
+    font-size: 44px;
+}
+.para{
+    color:chartreuse;
+    background-color:grey;
+}
